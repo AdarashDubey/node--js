@@ -13,4 +13,4 @@ function calculator(r, u, operation) {
     }
   }
   
-  module.exports = calculator; 
+  module.exports = calculator;
